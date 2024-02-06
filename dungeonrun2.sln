@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dungeonrun2", "dungeonrun2\dungeonrun2.csproj", "{8EB04786-1F0A-4AE6-AE02-7D3B8C4A406F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EB04786-1F0A-4AE6-AE02-7D3B8C4A406F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB04786-1F0A-4AE6-AE02-7D3B8C4A406F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB04786-1F0A-4AE6-AE02-7D3B8C4A406F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB04786-1F0A-4AE6-AE02-7D3B8C4A406F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACC13129-6538-4143-9C07-A44A0C7FDEA4}
+	EndGlobalSection
+EndGlobal
